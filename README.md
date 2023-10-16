@@ -1,14 +1,4 @@
-# 1. インフラストラクチャー
-![infrastructure](https://github.com/kouhei-github/fast-api-chat-gpt-sales-management-sys/assets/49782052/305d6e45-d3f5-41d4-88f2-a494221b0b3f)
 
----
-
-## 2. 説明
-
-### 2.1 サービス概要
-[LLMを活用したセールステックの開発指針](https://docs.google.com/document/d/1nophUtW-1m7olds8QUVWNxYec2mYOy-oVoXCcRtiETE/edit)
-
----
 
 ### 2.2 ECRに独自のイメージをpush
 
